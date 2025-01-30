@@ -2,7 +2,7 @@ class ToggleHistory < Formula
   desc "Interactive script to enable or disable command history tracking"
   homepage "https://github.com/arpit-curve/homebrew-toggle-history"
   url "https://github.com/arpit-curve/homebrew-toggle-history/archive/v1.0.0.tar.gz"
-  sha256 "ccfa34795c994014aa10c5266c66061fdaef77d4efdcdd56376b0943ebad0d3c"
+  sha256 "a435f9a36cbddd3f658b82dc92867539c4140f52cc410c4b73f189d9be712c42"
   license "MIT"
 
   def install
